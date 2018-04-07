@@ -89,21 +89,21 @@ comments_provider: gitalk
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
-disqus:
-    username: 
+#disqus:
+#    username: 
 # https://imsun.net/posts/gitment-introduction/
-gitment:
-    owner: knowpract
-    repo: knowpract.github.io
-    oauth:
-        client_id: 86ae0a07c1215d9751f8
-        client_secret: 6b7ce10b71a8361e66ef998846460112c81ad2f8
+#gitment:
+#    owner: knowpract
+#    repo: knowpract.github.io
+#    oauth:
+#        client_id: 86ae0a07c1215d9751f8
+#        client_secret: 6b7ce10b71a8361e66ef998846460112c81ad2f8
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: knowpract
     repo: knowpract.github.io
-    clientID: 86ae0a07c1215d9751f8
-    clientSecret: 6b7ce10b71a8361e66ef998846460112c81ad2f8
+    clientID: 490e7f1b08ec81ebb251
+    clientSecret: 358fca0e5e25a046f6dba2baa1f00077ebf8f66b
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
